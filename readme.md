@@ -26,6 +26,10 @@
     kubectl get services
     ```
 
+### Pods
+
+Pod sayısını artırmak için replicas değerini deployment.yaml dosyasında değiştirebilirsiniz.
+
 ## Docker Hub
 
 Docker Hub’daki imaj: `dtmypr/my-flask-app`
